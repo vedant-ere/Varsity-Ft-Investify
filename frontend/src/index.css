@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-inter: "Sora", serif;
+  --font-weight: "200";
+}
+
+root {
+  --background: #ffffff;
+  --foreground: #000000;
+  --card-bg: #ffffff;
+  --header-bg: #ffffff;
+  --input-bg: #f3f4f6;
+  --border-color: #e5e7eb;
+  --hover-color: #f3f4f6;
+  --blue-color: #2563eb;
+  --text-primary: #111827;
+  --text-secondary: #4b5563;
+  --text-muted: #6b7280;
+}
+
+.dark {
+  --background: #121212;
+  --foreground: #ffffff;
+  --card-bg: #1e1e1e;
+  --header-bg: #1e1e1e;
+  --input-bg: #2d2d2d;
+  --border-color: #333333;
+  --hover-color: #2d2d2d;
+  --blue-color: #60a5fa;
+  --text-primary: #e5e7eb;
+  --text-secondary: #d1d5db;
+  --text-muted: #9ca3af;
+}
+
+/* Basic dark mode styling */
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Card styling */
+.bg-white {
+  background-color: var(--card-bg);
+  color: var(--text-primary);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Input styling */
+input, textarea, select {
+  background-color: var(--input-bg);
+  color: var(--text-primary);
+  border-color: var(--border-color);
+}
+
+/* Border styling */
+.border, .border-t, .border-b, .border-l, .border-r {
+  border-color: var(--border-color);
+}
+
+/* Typography */
+.text-gray-600, .text-gray-700, .text-gray-800 {
+  color: var(--text-secondary);
+}
+
+.text-gray-500, .text-gray-400 {
+  color: var(--text-muted);
+}
+
+/* Background colors */
+.bg-gray-50, .bg-gray-100, .bg-blue-50, .bg-green-50 {
+  background-color: var(--card-bg);
+}
+
+.dark .bg-gray-900 {
+  background-color: #111111;
+}
+
+.dark .bg-gray-800 {
+  background-color: #1a1a1a;
+}
+
+/* Hover effects */
+.hover\:bg-gray-100:hover, .hover\:bg-gray-200:hover {
+  background-color: var(--hover-color) !important;
+}
+
+/* Links */
+a, .text-blue-600, .text-blue-700 {
+  color: var(--blue-color);
+}
+
+/* Animations */
+*, *::before, *::after {
+  transition-property: background-color, border-color, color, fill, stroke;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}

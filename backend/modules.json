@@ -1,0 +1,887 @@
+[
+  {
+    "title": "Introduction to Stock Markets",
+    "moduleNumber": 1,
+    "lineColor": "border-green-400",
+    "chapters": 15,
+    "description": "An introduction to the fundamentals of stock markets, their structure, and importance in the economy.",
+    "subModules": [
+      {
+        "subModuleNumber": 1,
+        "subModuleHeading": "What is a Stock Market?",
+        "subModuleDescription": "Understanding the basic concept of stock markets."
+      },
+      {
+        "subModuleNumber": 2,
+        "subModuleHeading": "History of Stock Markets",
+        "subModuleDescription": "Learn about the evolution of stock markets over the years."
+      },
+      {
+        "subModuleNumber": 3,
+        "subModuleHeading": "Market Participants",
+        "subModuleDescription": "Overview of investors, brokers, and institutions."
+      },
+      {
+        "subModuleNumber": 4,
+        "subModuleHeading": "How Trading Works",
+        "subModuleDescription": "The process of buying and selling stocks."
+      },
+      {
+        "subModuleNumber": 5,
+        "subModuleHeading": "Market Indices",
+        "subModuleDescription": "Understanding key market indices and their significance."
+      },
+      {
+        "subModuleNumber": 6,
+        "subModuleHeading": "Regulatory Framework",
+        "subModuleDescription": "An overview of the regulations that govern the stock market."
+      },
+      {
+        "subModuleNumber": 7,
+        "subModuleHeading": "Trading Terminology",
+        "subModuleDescription": "Common terms and jargon used in stock markets."
+      },
+      {
+        "subModuleNumber": 8,
+        "subModuleHeading": "Types of Markets",
+        "subModuleDescription": "Different market types: primary, secondary, and more."
+      },
+      {
+        "subModuleNumber": 9,
+        "subModuleHeading": "Market Infrastructure",
+        "subModuleDescription": "How exchanges, clearing houses, and settlement systems work."
+      },
+      {
+        "subModuleNumber": 10,
+        "subModuleHeading": "Future Trends",
+        "subModuleDescription": "Emerging trends and technologies shaping stock markets."
+      }
+    ]
+  },
+  {
+    "title": "Technical Analysis Basics",
+    "moduleNumber": 2,
+    "lineColor": "border-blue-400",
+    "chapters": 20,
+    "description": "Learn the foundational techniques of technical analysis including chart patterns, indicators, and trend analysis.",
+    "subModules": [
+      {
+        "subModuleNumber": 1,
+        "subModuleHeading": "Introduction to Technical Analysis",
+        "subModuleDescription": "The basics and importance of technical analysis."
+      },
+      {
+        "subModuleNumber": 2,
+        "subModuleHeading": "Candlestick Patterns",
+        "subModuleDescription": "Understanding various candlestick formations."
+      },
+      {
+        "subModuleNumber": 3,
+        "subModuleHeading": "Trend Lines & Channels",
+        "subModuleDescription": "How to draw and interpret trend lines."
+      },
+      {
+        "subModuleNumber": 4,
+        "subModuleHeading": "Support & Resistance",
+        "subModuleDescription": "Identifying key levels on charts."
+      },
+      {
+        "subModuleNumber": 5,
+        "subModuleHeading": "Moving Averages",
+        "subModuleDescription": "Using moving averages to smooth price data."
+      },
+      {
+        "subModuleNumber": 6,
+        "subModuleHeading": "Volume Analysis",
+        "subModuleDescription": "Interpreting volume to confirm trends."
+      },
+      {
+        "subModuleNumber": 7,
+        "subModuleHeading": "Oscillators & Indicators",
+        "subModuleDescription": "A look at RSI, MACD, and other indicators."
+      },
+      {
+        "subModuleNumber": 8,
+        "subModuleHeading": "Chart Patterns",
+        "subModuleDescription": "Recognizing head & shoulders, triangles, and more."
+      },
+      {
+        "subModuleNumber": 9,
+        "subModuleHeading": "Risk Management",
+        "subModuleDescription": "Incorporating technical analysis with risk controls."
+      },
+      {
+        "subModuleNumber": 10,
+        "subModuleHeading": "Practical Examples",
+        "subModuleDescription": "Applying techniques on real chart scenarios."
+      }
+    ]
+  },
+  {
+    "title": "Fundamental Analysis",
+    "moduleNumber": 3,
+    "lineColor": "border-red-400",
+    "chapters": 18,
+    "description": "Evaluate companies and industries by analyzing financial statements and economic factors.",
+    "subModules": [
+      {
+        "subModuleNumber": 1,
+        "subModuleHeading": "Financial Statement Basics",
+        "subModuleDescription": "Understanding income statements, balance sheets, and cash flow statements."
+      },
+      {
+        "subModuleNumber": 2,
+        "subModuleHeading": "Income Statement Analysis",
+        "subModuleDescription": "Delving into revenue, expenses, and profitability."
+      },
+      {
+        "subModuleNumber": 3,
+        "subModuleHeading": "Balance Sheet Fundamentals",
+        "subModuleDescription": "Examining assets, liabilities, and equity."
+      },
+      {
+        "subModuleNumber": 4,
+        "subModuleHeading": "Cash Flow Insights",
+        "subModuleDescription": "Interpreting cash inflows and outflows."
+      },
+      {
+        "subModuleNumber": 5,
+        "subModuleHeading": "Key Financial Ratios",
+        "subModuleDescription": "Learn to calculate and interpret ratios."
+      },
+      {
+        "subModuleNumber": 6,
+        "subModuleHeading": "Industry Analysis",
+        "subModuleDescription": "Assessing company performance within its sector."
+      },
+      {
+        "subModuleNumber": 7,
+        "subModuleHeading": "Management Evaluation",
+        "subModuleDescription": "The role of leadership in company success."
+      },
+      {
+        "subModuleNumber": 8,
+        "subModuleHeading": "Valuation Techniques",
+        "subModuleDescription": "Discounted cash flow, multiples, and other methods."
+      },
+      {
+        "subModuleNumber": 9,
+        "subModuleHeading": "Economic Moats",
+        "subModuleDescription": "Understanding competitive advantages."
+      },
+      {
+        "subModuleNumber": 10,
+        "subModuleHeading": "Case Studies",
+        "subModuleDescription": "Real-world examples of fundamental analysis in action."
+      }
+    ]
+  },
+  {
+    "title": "Advanced Technical Analysis",
+    "moduleNumber": 4,
+    "lineColor": "border-yellow-400",
+    "chapters": 25,
+    "description": "Enhance your technical analysis skills with advanced charting techniques and proprietary indicators.",
+    "subModules": [
+      {
+        "subModuleNumber": 1,
+        "subModuleHeading": "Complex Chart Patterns",
+        "subModuleDescription": "Exploring advanced patterns beyond the basics."
+      },
+      {
+        "subModuleNumber": 2,
+        "subModuleHeading": "Fibonacci Retracement & Extensions",
+        "subModuleDescription": "Using Fibonacci tools to predict market turns."
+      },
+      {
+        "subModuleNumber": 3,
+        "subModuleHeading": "Elliott Wave Theory",
+        "subModuleDescription": "Understanding market cycles through Elliott Waves."
+      },
+      {
+        "subModuleNumber": 4,
+        "subModuleHeading": "Advanced Oscillators",
+        "subModuleDescription": "Deep dive into oscillators and their interpretations."
+      },
+      {
+        "subModuleNumber": 5,
+        "subModuleHeading": "Volume Spread Analysis",
+        "subModuleDescription": "Analyzing volume patterns for market insight."
+      },
+      {
+        "subModuleNumber": 6,
+        "subModuleHeading": "Market Sentiment Indicators",
+        "subModuleDescription": "Measuring and interpreting overall market sentiment."
+      },
+      {
+        "subModuleNumber": 7,
+        "subModuleHeading": "Divergence Analysis",
+        "subModuleDescription": "Identifying divergences between price and indicators."
+      },
+      {
+        "subModuleNumber": 8,
+        "subModuleHeading": "Algorithmic Pattern Recognition",
+        "subModuleDescription": "How algorithms detect complex patterns."
+      },
+      {
+        "subModuleNumber": 9,
+        "subModuleHeading": "Integrating Multiple Indicators",
+        "subModuleDescription": "Combining tools for robust analysis."
+      },
+      {
+        "subModuleNumber": 10,
+        "subModuleHeading": "Advanced Risk Management",
+        "subModuleDescription": "Techniques for controlling risk in advanced trading setups."
+      }
+    ]
+  },
+  {
+    "title": "Derivatives Market",
+    "moduleNumber": 5,
+    "lineColor": "border-green-400",
+    "chapters": 20,
+    "description": "Understand the workings of derivatives, including futures and options, and their role in risk management.",
+    "subModules": [
+      {
+        "subModuleNumber": 1,
+        "subModuleHeading": "Introduction to Derivatives",
+        "subModuleDescription": "What derivatives are and why they matter."
+      },
+      {
+        "subModuleNumber": 2,
+        "subModuleHeading": "Futures Contracts",
+        "subModuleDescription": "Key concepts behind futures trading."
+      },
+      {
+        "subModuleNumber": 3,
+        "subModuleHeading": "Options Fundamentals",
+        "subModuleDescription": "Basics of call and put options."
+      },
+      {
+        "subModuleNumber": 4,
+        "subModuleHeading": "Pricing Models",
+        "subModuleDescription": "An overview of derivative pricing methods."
+      },
+      {
+        "subModuleNumber": 5,
+        "subModuleHeading": "Hedging Strategies",
+        "subModuleDescription": "Using derivatives to mitigate risk."
+      },
+      {
+        "subModuleNumber": 6,
+        "subModuleHeading": "Speculative Trading",
+        "subModuleDescription": "How derivatives can be used for speculation."
+      },
+      {
+        "subModuleNumber": 7,
+        "subModuleHeading": "Regulatory Considerations",
+        "subModuleDescription": "Understanding the rules that govern derivative markets."
+      },
+      {
+        "subModuleNumber": 8,
+        "subModuleHeading": "Margin and Leverage",
+        "subModuleDescription": "The role of margin in derivatives trading."
+      },
+      {
+        "subModuleNumber": 9,
+        "subModuleHeading": "Risk Management in Derivatives",
+        "subModuleDescription": "Strategies to control risk when trading derivatives."
+      },
+      {
+        "subModuleNumber": 10,
+        "subModuleHeading": "Case Studies",
+        "subModuleDescription": "Real-world examples from the derivatives market."
+      }
+    ]
+  },
+  {
+    "title": "Options Trading Strategies",
+    "moduleNumber": 6,
+    "lineColor": "border-blue-400",
+    "chapters": 18,
+    "description": "Explore various strategies for trading options effectively and managing risk.",
+    "subModules": [
+      {
+        "subModuleNumber": 1,
+        "subModuleHeading": "Introduction to Options",
+        "subModuleDescription": "Basics of options and their trading mechanics."
+      },
+      {
+        "subModuleNumber": 2,
+        "subModuleHeading": "Long Call Strategy",
+        "subModuleDescription": "How to profit from a rising market using calls."
+      },
+      {
+        "subModuleNumber": 3,
+        "subModuleHeading": "Long Put Strategy",
+        "subModuleDescription": "How puts work when anticipating a market downturn."
+      },
+      {
+        "subModuleNumber": 4,
+        "subModuleHeading": "Covered Call Strategy",
+        "subModuleDescription": "Generating income on held stocks."
+      },
+      {
+        "subModuleNumber": 5,
+        "subModuleHeading": "Protective Puts",
+        "subModuleDescription": "Hedging positions with puts."
+      },
+      {
+        "subModuleNumber": 6,
+        "subModuleHeading": "Straddles & Strangles",
+        "subModuleDescription": "Profit from volatility with these neutral strategies."
+      },
+      {
+        "subModuleNumber": 7,
+        "subModuleHeading": "Butterfly Spreads",
+        "subModuleDescription": "A strategy for limited risk and reward."
+      },
+      {
+        "subModuleNumber": 8,
+        "subModuleHeading": "Iron Condors",
+        "subModuleDescription": "Balancing risk and reward using multiple options."
+      },
+      {
+        "subModuleNumber": 9,
+        "subModuleHeading": "Advanced Options Adjustments",
+        "subModuleDescription": "Tweaking strategies as market conditions change."
+      },
+      {
+        "subModuleNumber": 10,
+        "subModuleHeading": "Risk Management in Options",
+        "subModuleDescription": "Techniques to control risk when trading options."
+      }
+    ]
+  },
+  {
+    "title": "Futures Trading",
+    "moduleNumber": 7,
+    "lineColor": "border-red-400",
+    "chapters": 16,
+    "description": "Learn the ins and outs of trading futures including contract specifications, margin requirements, and strategy development.",
+    "subModules": [
+      {
+        "subModuleNumber": 1,
+        "subModuleHeading": "Futures 101",
+        "subModuleDescription": "Introduction to futures contracts and their purpose."
+      },
+      {
+        "subModuleNumber": 2,
+        "subModuleHeading": "Contract Specifications",
+        "subModuleDescription": "Understanding the details of futures contracts."
+      },
+      {
+        "subModuleNumber": 3,
+        "subModuleHeading": "Margin & Leverage",
+        "subModuleDescription": "How margin works and the role of leverage."
+      },
+      {
+        "subModuleNumber": 4,
+        "subModuleHeading": "Trading Strategies",
+        "subModuleDescription": "Developing strategies specific to futures."
+      },
+      {
+        "subModuleNumber": 5,
+        "subModuleHeading": "Hedging with Futures",
+        "subModuleDescription": "Using futures contracts to hedge risk."
+      },
+      {
+        "subModuleNumber": 6,
+        "subModuleHeading": "Speculative Trading",
+        "subModuleDescription": "Techniques for speculative positions in futures."
+      },
+      {
+        "subModuleNumber": 7,
+        "subModuleHeading": "Technical Analysis for Futures",
+        "subModuleDescription": "Applying charting techniques to futures markets."
+      },
+      {
+        "subModuleNumber": 8,
+        "subModuleHeading": "Fundamental Analysis in Futures",
+        "subModuleDescription": "Assessing the underlying assets driving futures prices."
+      },
+      {
+        "subModuleNumber": 9,
+        "subModuleHeading": "Risk Management in Futures",
+        "subModuleDescription": "Managing risk when trading futures contracts."
+      },
+      {
+        "subModuleNumber": 10,
+        "subModuleHeading": "Futures Case Studies",
+        "subModuleDescription": "Real-world examples of successful futures trades."
+      }
+    ]
+  },
+  {
+    "title": "Risk Management",
+    "moduleNumber": 8,
+    "lineColor": "border-yellow-400",
+    "chapters": 14,
+    "description": "Strategies and techniques to identify, assess, and mitigate risk in trading and investing.",
+    "subModules": [
+      {
+        "subModuleNumber": 1,
+        "subModuleHeading": "Risk Management Fundamentals",
+        "subModuleDescription": "Introduction to key risk management concepts."
+      },
+      {
+        "subModuleNumber": 2,
+        "subModuleHeading": "Position Sizing",
+        "subModuleDescription": "Determining the right size for each trade."
+      },
+      {
+        "subModuleNumber": 3,
+        "subModuleHeading": "Stop Loss Strategies",
+        "subModuleDescription": "Using stop losses effectively to protect capital."
+      },
+      {
+        "subModuleNumber": 4,
+        "subModuleHeading": "Diversification",
+        "subModuleDescription": "Spreading risk across different asset classes."
+      },
+      {
+        "subModuleNumber": 5,
+        "subModuleHeading": "Hedging Techniques",
+        "subModuleDescription": "Methods to hedge against market movements."
+      },
+      {
+        "subModuleNumber": 6,
+        "subModuleHeading": "Risk-Reward Analysis",
+        "subModuleDescription": "Evaluating the balance between potential gains and losses."
+      },
+      {
+        "subModuleNumber": 7,
+        "subModuleHeading": "Volatility Analysis",
+        "subModuleDescription": "Measuring and interpreting market volatility."
+      },
+      {
+        "subModuleNumber": 8,
+        "subModuleHeading": "Stress Testing",
+        "subModuleDescription": "Simulating adverse market scenarios."
+      },
+      {
+        "subModuleNumber": 9,
+        "subModuleHeading": "Risk Management Tools",
+        "subModuleDescription": "Overview of software and techniques for risk assessment."
+      },
+      {
+        "subModuleNumber": 10,
+        "subModuleHeading": "Risk Management Case Studies",
+        "subModuleDescription": "Real examples of effective risk management."
+      }
+    ]
+  },
+  {
+    "title": "Market Microstructure",
+    "moduleNumber": 9,
+    "lineColor": "border-green-400",
+    "chapters": 12,
+    "description": "An in-depth look at how the market operates on a micro-level, including order flow and price discovery.",
+    "subModules": [
+      {
+        "subModuleNumber": 1,
+        "subModuleHeading": "Introduction to Market Microstructure",
+        "subModuleDescription": "Understanding the dynamics of order flow and market behavior."
+      },
+      {
+        "subModuleNumber": 2,
+        "subModuleHeading": "Order Types",
+        "subModuleDescription": "Different types of orders and their impacts."
+      },
+      {
+        "subModuleNumber": 3,
+        "subModuleHeading": "Bid-Ask Spread",
+        "subModuleDescription": "What determines the bid-ask spread in markets."
+      },
+      {
+        "subModuleNumber": 4,
+        "subModuleHeading": "Liquidity",
+        "subModuleDescription": "The importance of liquidity in trading."
+      },
+      {
+        "subModuleNumber": 5,
+        "subModuleHeading": "High-Frequency Trading",
+        "subModuleDescription": "The role and impact of high-frequency trading."
+      },
+      {
+        "subModuleNumber": 6,
+        "subModuleHeading": "Market Making",
+        "subModuleDescription": "How market makers provide liquidity."
+      },
+      {
+        "subModuleNumber": 7,
+        "subModuleHeading": "Order Execution Process",
+        "subModuleDescription": "From order placement to execution."
+      },
+      {
+        "subModuleNumber": 8,
+        "subModuleHeading": "Price Discovery Mechanism",
+        "subModuleDescription": "How prices are formed through market interactions."
+      },
+      {
+        "subModuleNumber": 9,
+        "subModuleHeading": "Algorithmic Trading Impact",
+        "subModuleDescription": "Understanding the influence of algorithms on market structure."
+      },
+      {
+        "subModuleNumber": 10,
+        "subModuleHeading": "Case Studies",
+        "subModuleDescription": "Real-world examples of market microstructure concepts."
+      }
+    ]
+  },
+  {
+    "title": "Behavioural Finance",
+    "moduleNumber": 10,
+    "lineColor": "border-blue-400",
+    "chapters": 13,
+    "description": "Explore how human psychology and emotions influence investor behavior and market outcomes.",
+    "subModules": [
+      {
+        "subModuleNumber": 1,
+        "subModuleHeading": "Introduction to Behavioural Finance",
+        "subModuleDescription": "Basics of behavioural finance and its importance."
+      },
+      {
+        "subModuleNumber": 2,
+        "subModuleHeading": "Cognitive Biases",
+        "subModuleDescription": "Common biases that affect decision-making."
+      },
+      {
+        "subModuleNumber": 3,
+        "subModuleHeading": "Emotional Investing",
+        "subModuleDescription": "How emotions drive investment decisions."
+      },
+      {
+        "subModuleNumber": 4,
+        "subModuleHeading": "Herd Behavior",
+        "subModuleDescription": "The impact of following the crowd."
+      },
+      {
+        "subModuleNumber": 5,
+        "subModuleHeading": "Overconfidence & Biases",
+        "subModuleDescription": "Identifying overconfidence and its pitfalls."
+      },
+      {
+        "subModuleNumber": 6,
+        "subModuleHeading": "Loss Aversion",
+        "subModuleDescription": "Understanding the fear of losses in decision-making."
+      },
+      {
+        "subModuleNumber": 7,
+        "subModuleHeading": "Behavioral Biases Overview",
+        "subModuleDescription": "A deeper look into various biases."
+      },
+      {
+        "subModuleNumber": 8,
+        "subModuleHeading": "Market Sentiment",
+        "subModuleDescription": "How collective sentiment drives market trends."
+      },
+      {
+        "subModuleNumber": 9,
+        "subModuleHeading": "Improving Decision Making",
+        "subModuleDescription": "Techniques to counteract biases."
+      },
+      {
+        "subModuleNumber": 10,
+        "subModuleHeading": "Behavioural Finance Case Studies",
+        "subModuleDescription": "Real examples of behavioural biases in markets."
+      }
+    ]
+  },
+  {
+    "title": "Algorithmic Trading",
+    "moduleNumber": 11,
+    "lineColor": "border-red-400",
+    "chapters": 17,
+    "description": "Learn how algorithms are used to automate trading strategies and manage orders in real time.",
+    "subModules": [
+      {
+        "subModuleNumber": 1,
+        "subModuleHeading": "Algorithmic Trading Overview",
+        "subModuleDescription": "Introduction to the world of automated trading."
+      },
+      {
+        "subModuleNumber": 2,
+        "subModuleHeading": "Types of Trading Algorithms",
+        "subModuleDescription": "Different algorithms used in trading."
+      },
+      {
+        "subModuleNumber": 3,
+        "subModuleHeading": "Backtesting Strategies",
+        "subModuleDescription": "How to test your strategies using historical data."
+      },
+      {
+        "subModuleNumber": 4,
+        "subModuleHeading": "High Frequency Trading",
+        "subModuleDescription": "The role of speed and technology in trading."
+      },
+      {
+        "subModuleNumber": 5,
+        "subModuleHeading": "Automated Order Execution",
+        "subModuleDescription": "Techniques to execute orders automatically."
+      },
+      {
+        "subModuleNumber": 6,
+        "subModuleHeading": "Risk Management in Algorithms",
+        "subModuleDescription": "Controlling risk in automated trading."
+      },
+      {
+        "subModuleNumber": 7,
+        "subModuleHeading": "Machine Learning in Trading",
+        "subModuleDescription": "Applying ML techniques to improve strategies."
+      },
+      {
+        "subModuleNumber": 8,
+        "subModuleHeading": "Real-Time Data Processing",
+        "subModuleDescription": "Handling live market data in algorithms."
+      },
+      {
+        "subModuleNumber": 9,
+        "subModuleHeading": "Strategy Optimization",
+        "subModuleDescription": "Fine-tuning algorithms for better performance."
+      },
+      {
+        "subModuleNumber": 10,
+        "subModuleHeading": "Algorithmic Trading Case Studies",
+        "subModuleDescription": "Successful examples of algorithmic trading in action."
+      }
+    ]
+  },
+  {
+    "title": "Portfolio Management",
+    "moduleNumber": 12,
+    "lineColor": "border-yellow-400",
+    "chapters": 15,
+    "description": "Understand the principles behind constructing and managing a diversified investment portfolio.",
+    "subModules": [
+      {
+        "subModuleNumber": 1,
+        "subModuleHeading": "Portfolio Management Basics",
+        "subModuleDescription": "Introduction to portfolio construction and objectives."
+      },
+      {
+        "subModuleNumber": 2,
+        "subModuleHeading": "Asset Allocation",
+        "subModuleDescription": "Strategies for diversifying across asset classes."
+      },
+      {
+        "subModuleNumber": 3,
+        "subModuleHeading": "Risk vs. Return",
+        "subModuleDescription": "Balancing potential rewards with risk exposure."
+      },
+      {
+        "subModuleNumber": 4,
+        "subModuleHeading": "Investment Strategies",
+        "subModuleDescription": "Exploring various approaches to portfolio growth."
+      },
+      {
+        "subModuleNumber": 5,
+        "subModuleHeading": "Portfolio Rebalancing",
+        "subModuleDescription": "Techniques for maintaining your target asset allocation."
+      },
+      {
+        "subModuleNumber": 6,
+        "subModuleHeading": "Tax Efficient Investing",
+        "subModuleDescription": "Strategies to minimize tax impact on returns."
+      },
+      {
+        "subModuleNumber": 7,
+        "subModuleHeading": "Mutual Funds & ETFs",
+        "subModuleDescription": "How to use pooled investment vehicles in your portfolio."
+      },
+      {
+        "subModuleNumber": 8,
+        "subModuleHeading": "Performance Measurement",
+        "subModuleDescription": "Assessing and benchmarking portfolio performance."
+      },
+      {
+        "subModuleNumber": 9,
+        "subModuleHeading": "Risk Management in Portfolios",
+        "subModuleDescription": "Techniques to reduce portfolio volatility."
+      },
+      {
+        "subModuleNumber": 10,
+        "subModuleHeading": "Portfolio Management Case Studies",
+        "subModuleDescription": "Real-world examples of successful portfolio strategies."
+      }
+    ]
+  },
+  {
+    "title": "Economic Indicators",
+    "moduleNumber": 13,
+    "lineColor": "border-green-400",
+    "chapters": 14,
+    "description": "Analyze key economic indicators and understand their impact on financial markets.",
+    "subModules": [
+      {
+        "subModuleNumber": 1,
+        "subModuleHeading": "Introduction to Economic Indicators",
+        "subModuleDescription": "Basics of economic data and its relevance."
+      },
+      {
+        "subModuleNumber": 2,
+        "subModuleHeading": "Gross Domestic Product (GDP)",
+        "subModuleDescription": "Understanding GDP and its implications."
+      },
+      {
+        "subModuleNumber": 3,
+        "subModuleHeading": "Inflation & CPI",
+        "subModuleDescription": "How inflation affects purchasing power and markets."
+      },
+      {
+        "subModuleNumber": 4,
+        "subModuleHeading": "Employment Data",
+        "subModuleDescription": "Examining unemployment rates and job creation figures."
+      },
+      {
+        "subModuleNumber": 5,
+        "subModuleHeading": "Interest Rates",
+        "subModuleDescription": "The effect of central bank policies on markets."
+      },
+      {
+        "subModuleNumber": 6,
+        "subModuleHeading": "Consumer Confidence",
+        "subModuleDescription": "Measuring consumer sentiment and spending power."
+      },
+      {
+        "subModuleNumber": 7,
+        "subModuleHeading": "Manufacturing & Services PMI",
+        "subModuleDescription": "Indicators of economic activity in key sectors."
+      },
+      {
+        "subModuleNumber": 8,
+        "subModuleHeading": "Trade Balance",
+        "subModuleDescription": "Understanding exports, imports, and their impact."
+      },
+      {
+        "subModuleNumber": 9,
+        "subModuleHeading": "Fiscal Policy",
+        "subModuleDescription": "The role of government spending and taxation."
+      },
+      {
+        "subModuleNumber": 10,
+        "subModuleHeading": "Economic Case Studies",
+        "subModuleDescription": "Real-world applications of economic indicator analysis."
+      }
+    ]
+  },
+  {
+    "title": "Investment Strategies",
+    "moduleNumber": 14,
+    "lineColor": "border-blue-400",
+    "chapters": 16,
+    "description": "Explore a range of strategies for both short-term trading and long-term investing to build wealth.",
+    "subModules": [
+      {
+        "subModuleNumber": 1,
+        "subModuleHeading": "Overview of Investment Strategies",
+        "subModuleDescription": "Introduction to different approaches to investing."
+      },
+      {
+        "subModuleNumber": 2,
+        "subModuleHeading": "Value Investing",
+        "subModuleDescription": "Identifying undervalued stocks for long-term gains."
+      },
+      {
+        "subModuleNumber": 3,
+        "subModuleHeading": "Growth Investing",
+        "subModuleDescription": "Focusing on companies with high growth potential."
+      },
+      {
+        "subModuleNumber": 4,
+        "subModuleHeading": "Dividend Investing",
+        "subModuleDescription": "Building income streams from dividend-paying stocks."
+      },
+      {
+        "subModuleNumber": 5,
+        "subModuleHeading": "Index Investing",
+        "subModuleDescription": "Tracking market indices through ETFs and mutual funds."
+      },
+      {
+        "subModuleNumber": 6,
+        "subModuleHeading": "Contrarian Investing",
+        "subModuleDescription": "Investing against prevailing market trends."
+      },
+      {
+        "subModuleNumber": 7,
+        "subModuleHeading": "Momentum Investing",
+        "subModuleDescription": "Capitalizing on short-term market movements."
+      },
+      {
+        "subModuleNumber": 8,
+        "subModuleHeading": "Swing Trading",
+        "subModuleDescription": "Short-term trading strategies for capturing market swings."
+      },
+      {
+        "subModuleNumber": 9,
+        "subModuleHeading": "Using Options to Enhance Returns",
+        "subModuleDescription": "Strategies that incorporate options for additional yield."
+      },
+      {
+        "subModuleNumber": 10,
+        "subModuleHeading": "Investment Strategy Case Studies",
+        "subModuleDescription": "Real-world examples of successful investment approaches."
+      }
+    ]
+  },
+  {
+    "title": "Regulatory Environment and Compliance",
+    "moduleNumber": 15,
+    "lineColor": "border-red-400",
+    "chapters": 12,
+    "description": "Understand the regulatory frameworks governing financial markets and the importance of compliance in trading and investing.",
+    "subModules": [
+      {
+        "subModuleNumber": 1,
+        "subModuleHeading": "Introduction to Regulations",
+        "subModuleDescription": "Overview of the regulatory landscape in finance."
+      },
+      {
+        "subModuleNumber": 2,
+        "subModuleHeading": "Role of SEBI and Other Regulators",
+        "subModuleDescription": "Understanding the functions of regulatory bodies."
+      },
+      {
+        "subModuleNumber": 3,
+        "subModuleHeading": "Compliance Requirements",
+        "subModuleDescription": "The basics of regulatory compliance for market participants."
+      },
+      {
+        "subModuleNumber": 4,
+        "subModuleHeading": "Corporate Governance",
+        "subModuleDescription": "How corporate governance impacts market integrity."
+      },
+      {
+        "subModuleNumber": 5,
+        "subModuleHeading": "Financial Reporting Standards",
+        "subModuleDescription": "Understanding the standards and their significance."
+      },
+      {
+        "subModuleNumber": 6,
+        "subModuleHeading": "Recent Regulatory Reforms",
+        "subModuleDescription": "An overview of the latest changes in financial regulations."
+      },
+      {
+        "subModuleNumber": 7,
+        "subModuleHeading": "Global Regulatory Comparisons",
+        "subModuleDescription": "How regulations differ across regions."
+      },
+      {
+        "subModuleNumber": 8,
+        "subModuleHeading": "Ethics in Finance",
+        "subModuleDescription": "The role of ethics and best practices in compliance."
+      },
+      {
+        "subModuleNumber": 9,
+        "subModuleHeading": "Balancing Risk and Compliance",
+        "subModuleDescription": "Strategies to meet regulatory requirements while managing risk."
+      },
+      {
+        "subModuleNumber": 10,
+        "subModuleHeading": "Compliance Case Studies",
+        "subModuleDescription": "Real-world examples of regulatory actions and compliance best practices."
+      }
+    ]
+  }
+]
